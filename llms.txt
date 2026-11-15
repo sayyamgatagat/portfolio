@@ -1,0 +1,16 @@
+# Sayyam Gatagat
+
+> Backend software engineer based in Pune, India. Currently a Software Specialist at PTC, working with Java and Spring Boot.
+
+## About
+- Role: Software Specialist at PTC (Nov 2025 - present); previously Software Engineer at Xoriant (Aug 2022 - Nov 2025)
+- Current work: FMEA and CAPA modules for Windchill QMS
+- Previous work at PTC: REST APIs and utility upgrades for Arbortext Content Delivery, its OpenSearch-based Search service, and SSO support for any identity provider (previously PingFederate only)
+- Skills: Java, Spring Boot, Node.js, REST APIs, OpenSearch, MySQL, PostgreSQL, Angular, React
+- Education: B.Tech in Computer Science and Engineering, Walchand Institute of Technology, Solapur (CGPA 9.83)
+
+## Links
+- [Website](https://sayyam.dev/)
+- [Resume (PDF)](https://sayyam.dev/sayyamGatagatResume.pdf)
+- [GitHub](https://github.com/sayyamgatagat)
+- [LinkedIn](https://linkedin.com/in/sayyamgatagat)
